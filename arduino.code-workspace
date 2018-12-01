@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "D:\\下载\\文档\\Arduino\\libraries"
+		}
+	],
+	"settings": {
+		"C_Cpp.intelliSenseEngine": "Disabled",
+		"problems.decorations.enabled": false,
+		"clang.diagnostic.enable": false
+	}
+}
